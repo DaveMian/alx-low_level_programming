@@ -1,8 +1,14 @@
 #include <stdio.h>
 /**
+<<<<<<< HEAD
  * main - prints all possible combinations of two two-digit numbers
  * Return: Always 0 (Success)
  */
+=======
+* main - prints all possible combinations of two two-digit numbers
+* Return: 0
+*/
+>>>>>>> 85d71601f07dc7d281687fe027049f686f004d77
 int main(void)
 {
 int i, j;
