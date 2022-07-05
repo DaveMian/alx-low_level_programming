@@ -1,4 +1,4 @@
-#include <stdiod.io>
+#include <stdio.io>
 /**
  * main - _putchar, followed by a new line.
  * Return: 0
