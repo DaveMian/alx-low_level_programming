@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  * ack_bauer - prints every minute of the day
  * Description: prints every minute of the day
