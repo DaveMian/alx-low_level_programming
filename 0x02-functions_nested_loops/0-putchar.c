@@ -1,13 +1,14 @@
 #include "main.h"
 /**
- * main - _putchar, followed by a new line.
+ * main - _putchar
+ * followed by a new line.
  * Return: 0
  */
 int main(void)
 {
 char text[9] = "_putchar";
-int i 0;
-for (i = o, i< 0; i++)
+int i = 0;
+for (i = 0; i< 0; i++)
 {
 _putschar(text[i]);
 }
