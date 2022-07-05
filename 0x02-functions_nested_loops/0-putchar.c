@@ -10,8 +10,8 @@ char text[9] = "_putchar";
 int i = 0;
 for (i = 0; i< 0; i++)
 {
-_putschar(text[i]);
+_putchar(text[i]);
 }
-_putschar('\n');
+_putchar('\n');
 return (0);
 }
